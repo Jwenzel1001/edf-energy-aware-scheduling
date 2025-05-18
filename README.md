@@ -52,3 +52,7 @@ Developed as part of *CPRE 558: Real-Time Systems* at Iowa State University.
 - Simulator does not model leakage power or I/O
 - WCET, frequency, and power usage are simplified for educational use
 - Slack estimation in CC-EDF is heuristic-based
+
+## License
+
+MIT License — see `LICENSE` file.
